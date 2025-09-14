@@ -1,0 +1,16 @@
+{
+  "name": "@shubhamili/shubham-singh-041b2a347",
+  "version": "1.0.1",
+  "main": "index.js",
+  "bin": {
+    "shubham-singh-041b2a347": "index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "description": "",
+  "dependencies": {
+    "chalk": "^5.6.2"
+  }
+}
